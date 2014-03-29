@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The Bromitzvah]]></title>
+  <link href="http://bromitzvah.github.io/atom.xml" rel="self"/>
+  <link href="http://bromitzvah.github.io/"/>
+  <updated>2014-03-30T03:49:09+05:30</updated>
+  <id>http://bromitzvah.github.io/</id>
+  <author>
+    <name><![CDATA[Bro]]></name>
+    <email><![CDATA[emailbromitzvah@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The 4 Date Rule]]></title>
+    <link href="http://bromitzvah.github.io/blog/2014/03/30/the-4-date-rule/"/>
+    <updated>2014-03-30T03:33:22+05:30</updated>
+    <id>http://bromitzvah.github.io/blog/2014/03/30/the-4-date-rule</id>
+    <content type="html"><![CDATA[<p>The 4 date rule says, go on at least 4 date with a girl before you get her emotinally attached to you. Not because you want to know her better, but because you want to make sure she isn&rsquo;t a psyco who would start contacting your friends/relatives/siblings for asking them to convince you OR telling them what a jerk you are, once you decide to dump her.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Visualizer's Curse]]></title>
+    <link href="http://bromitzvah.github.io/blog/2014/03/30/the-visualizers-curse/"/>
+    <updated>2014-03-30T03:29:39+05:30</updated>
+    <id>http://bromitzvah.github.io/blog/2014/03/30/the-visualizers-curse</id>
+    <content type="html"><![CDATA[<p>According to &lsquo;The visualizer&rsquo;s curse&rsquo; theory people with stronger visualization powers tend to be more possesive toward their partners.</p>
+]]></content>
+  </entry>
+  
+</feed>
