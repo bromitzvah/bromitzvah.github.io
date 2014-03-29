@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Bromitzvah]]></title>
+  <title><![CDATA[The Bro Mitzvah]]></title>
   <link href="http://bromitzvah.github.io/atom.xml" rel="self"/>
   <link href="http://bromitzvah.github.io/"/>
-  <updated>2014-03-30T04:11:49+05:30</updated>
+  <updated>2014-03-30T04:15:42+05:30</updated>
   <id>http://bromitzvah.github.io/</id>
   <author>
     <name><![CDATA[Bro]]></name>
